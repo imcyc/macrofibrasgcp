@@ -1,5 +1,5 @@
 import React from 'react';
-import calculadora2020 from '../images/calculadora2020.png';
+import calculadora2020 from '../images/grace.png';
 import {Link} from "react-router-dom";
 
 function Home(props) {
