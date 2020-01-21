@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4c20a5e9c87190cdbd990f14cfadbb4",
+    "revision": "6e442994ed18f5d112fa4a44c31fa330",
     "url": "/macrofibrasgcp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/macrofibrasgcp/static/css/2.17e5ed98.chunk.css"
   },
   {
-    "revision": "4fa295f87208c1a4f7b3",
+    "revision": "240c7118232697c79472",
     "url": "/macrofibrasgcp/static/css/main.08e14eec.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/macrofibrasgcp/static/js/2.0975eaa1.chunk.js"
   },
   {
-    "revision": "4fa295f87208c1a4f7b3",
-    "url": "/macrofibrasgcp/static/js/main.7ea09811.chunk.js"
+    "revision": "240c7118232697c79472",
+    "url": "/macrofibrasgcp/static/js/main.aa9561e1.chunk.js"
   },
   {
     "revision": "7268e7101e76aefa3d00",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/macrofibrasgcp/static/media/capas_compresion.9b2b7ed0.jpg"
   },
   {
-    "revision": "103132bc0cf3e8092ad5fa90a94af05c",
-    "url": "/macrofibrasgcp/static/media/grace.103132bc.png"
+    "revision": "2851801821267def10d5863a72029f19",
+    "url": "/macrofibrasgcp/static/media/grace.28518018.png"
   },
   {
     "revision": "e31835d30461646e2aa086790a8fed5b",

@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/macrofibrasgcp/static/css/main.08e14eec.chunk.css",
-    "main.js": "/macrofibrasgcp/static/js/main.7ea09811.chunk.js",
-    "main.js.map": "/macrofibrasgcp/static/js/main.7ea09811.chunk.js.map",
+    "main.js": "/macrofibrasgcp/static/js/main.aa9561e1.chunk.js",
+    "main.js.map": "/macrofibrasgcp/static/js/main.aa9561e1.chunk.js.map",
     "runtime-main.js": "/macrofibrasgcp/static/js/runtime-main.48f837aa.js",
     "runtime-main.js.map": "/macrofibrasgcp/static/js/runtime-main.48f837aa.js.map",
     "static/css/2.17e5ed98.chunk.css": "/macrofibrasgcp/static/css/2.17e5ed98.chunk.css",
     "static/js/2.0975eaa1.chunk.js": "/macrofibrasgcp/static/js/2.0975eaa1.chunk.js",
     "static/js/2.0975eaa1.chunk.js.map": "/macrofibrasgcp/static/js/2.0975eaa1.chunk.js.map",
     "index.html": "/macrofibrasgcp/index.html",
-    "precache-manifest.60abafba0b55ac4798f742c2c7e6f503.js": "/macrofibrasgcp/precache-manifest.60abafba0b55ac4798f742c2c7e6f503.js",
+    "precache-manifest.6f26f0c0f433d417b8a1d88c97ccf654.js": "/macrofibrasgcp/precache-manifest.6f26f0c0f433d417b8a1d88c97ccf654.js",
     "service-worker.js": "/macrofibrasgcp/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/macrofibrasgcp/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.08e14eec.chunk.css.map": "/macrofibrasgcp/static/css/main.08e14eec.chunk.css.map",
     "static/media/LOGOTexto.svg": "/macrofibrasgcp/static/media/LOGOTexto.82ad3b61.svg",
     "static/media/capas_compresion.jpg": "/macrofibrasgcp/static/media/capas_compresion.9b2b7ed0.jpg",
-    "static/media/grace.png": "/macrofibrasgcp/static/media/grace.103132bc.png",
+    "static/media/grace.png": "/macrofibrasgcp/static/media/grace.28518018.png",
     "static/media/losas_cimentacion.jpg": "/macrofibrasgcp/static/media/losas_cimentacion.e31835d3.jpg",
     "static/media/malla.jpg": "/macrofibrasgcp/static/media/malla.f08dcba9.jpg",
     "static/media/muro_concreto.jpg": "/macrofibrasgcp/static/media/muro_concreto.9be71f0d.jpg",
@@ -28,6 +28,6 @@
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.0975eaa1.chunk.js",
     "static/css/main.08e14eec.chunk.css",
-    "static/js/main.7ea09811.chunk.js"
+    "static/js/main.aa9561e1.chunk.js"
   ]
 }
